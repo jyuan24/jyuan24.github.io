@@ -1793,6 +1793,12 @@ input, select, textarea {
 				width: auto;
 			}
 
+		.image.abtme {
+			display: block;
+			width: 50%;
+			margin: 0 0 2em 0;
+		}
+
 /* List */
 
 	ul {
@@ -2262,6 +2268,14 @@ input, select, textarea {
 			}
 
 			#main > section.four {
+				background-color: #f5fafa;
+			}
+
+			#main > section.five {
+				background-color: #f5fafa;
+			}
+
+			#main > section.six {
 				background-color: #e8edec;
 			}
 
