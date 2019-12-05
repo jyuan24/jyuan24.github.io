@@ -1,1 +1,2 @@
-# jyuan24.github.io
+Portfolio showcasing some of my work.
+jyuan24.github.io
